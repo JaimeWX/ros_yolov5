@@ -1,2 +1,2 @@
-hello_vscode:image_detect:learning_nodelet:nodelet_yolov5:plumbing_pub_sub:ros_yolov5
+hello_vscode:image_detect:learning_nodelet:nodelet_yolov5:plumbing_pub_sub:ros_yolov5:tf01_static:tf02_dynamic
 -DCATKIN_DEVEL_PREFIX=/home/westwell/wwws/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/westwell/wwws/catkin_ws/install -G Unix Makefiles

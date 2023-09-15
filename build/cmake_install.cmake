@@ -137,6 +137,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/westwell/wwws/catkin_ws/build/ros_yolov5/cmake_install.cmake")
   include("/home/westwell/wwws/catkin_ws/build/image_detect/cmake_install.cmake")
   include("/home/westwell/wwws/catkin_ws/build/nodelet_yolov5/cmake_install.cmake")
+  include("/home/westwell/wwws/catkin_ws/build/tf01_static/cmake_install.cmake")
+  include("/home/westwell/wwws/catkin_ws/build/tf02_dynamic/cmake_install.cmake")
 
 endif()
 
