@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/westwell/wwws/catkin_ws/devel/setup.sh

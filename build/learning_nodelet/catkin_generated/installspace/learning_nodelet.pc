@@ -1,0 +1,8 @@
+prefix=/home/westwell/wwws/catkin_ws/install
+
+Name: learning_nodelet
+Description: Description of learning_nodelet
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

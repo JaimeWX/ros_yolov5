@@ -1,0 +1,5 @@
+<library path="lib/libmyyolo">
+    <class type="my_nodelet::MyYolo" base_class_type="nodelet::Nodelet" name="nodelet_yolov5/MyYolo">
+        <description>custom plugin</description>
+    </class>
+</library>

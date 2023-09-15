@@ -1,0 +1,13 @@
+<launch>
+
+    <node pkg="nodelet" type="nodelet" name="yolov5" args="manager" output="screen" />
+
+    <node pkg="nodelet" type="nodelet" name="pub_yolo" args="load nodelet_yolov5/MyYolo yolov5" output="screen" >
+
+    </node>
+
+    <node pkg="nodelet" type="nodelet" name="sub_yolo" args="load nodelet_yolov5/MyYolo yolov5" output="screen" >
+
+    </node>
+
+</launch>

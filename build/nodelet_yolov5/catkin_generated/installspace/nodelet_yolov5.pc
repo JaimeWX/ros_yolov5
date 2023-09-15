@@ -1,0 +1,8 @@
+prefix=/home/westwell/wwws/catkin_ws/install
+
+Name: nodelet_yolov5
+Description: Description of nodelet_yolov5
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
